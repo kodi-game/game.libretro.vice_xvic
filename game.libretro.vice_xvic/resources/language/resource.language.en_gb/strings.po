@@ -117,11 +117,11 @@ msgid "Video > VIC Filter"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Video > VIC Filter Oddline Phase"
+msgid "Video > VIC Filter Oddline Offset"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Video > VIC Filter Oddline Offset"
+msgid "Video > VIC Filter Oddline Phase"
 msgstr ""
 
 msgctxt "#30025"
