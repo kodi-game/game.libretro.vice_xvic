@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice_xvic.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice_xvic)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice_xvic?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice-xvic)
-
 # Commodore - VIC-20 (VICE xvic)
 
 ### Description
