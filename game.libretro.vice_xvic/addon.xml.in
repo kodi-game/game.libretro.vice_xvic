@@ -24,6 +24,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Commodore - VIC-20 (VICE xvic)</summary>
 		<summary lang="en_GB">Commodore - VIC-20 (VICE xvic)</summary>
 		<summary lang="es_ES">Commodore - VIC-20 (VICE xvic)</summary>
 		<summary lang="it_IT">Commodore - VIC-20 (VICE xvic)</summary>
