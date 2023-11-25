@@ -421,6 +421,10 @@ msgctxt "#30098"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
+msgctxt "#30099"
+msgid "System > Printer"
+msgstr ""
+
 #~ msgctxt "#30037"
 #~ msgid "OSD > Light Pen/Gun Pointer Color"
 #~ msgstr "OSD > Valokynän/-aseen osoittimen väri"

@@ -421,6 +421,10 @@ msgctxt "#30098"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
+msgctxt "#30099"
+msgid "System > Printer"
+msgstr ""
+
 #~ msgctxt "#30036"
 #~ msgid "OSD > Statusbar Messages"
 #~ msgstr "OSD > Beskeder for statuslinje"
