@@ -81,17 +81,9 @@ msgctxt "#30014"
 msgid "Video > Crop"
 msgstr "Video > Beskär"
 
-msgctxt "#30015"
-msgid "Video > Zoom Mode"
-msgstr "Video > Zoom-läge"
-
 msgctxt "#30016"
 msgid "Video > Crop Mode"
 msgstr "Video > Beskärningsläge"
-
-msgctxt "#30017"
-msgid "Video > Zoom Mode Crop"
-msgstr "Video > Zoomläge beskärning"
 
 msgctxt "#30018"
 msgid "Video > Manual Crop Top"
@@ -273,10 +265,6 @@ msgctxt "#30061"
 msgid "Hotkey > Toggle Crop"
 msgstr "Snabbtangent > Växla beskärning"
 
-msgctxt "#30062"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr "Snabbtangent > Växla zoomläge"
-
 msgctxt "#30063"
 msgid "Hotkey > Toggle Datasette Hotkeys"
 msgstr "Snabbtangent > Växla snabbtangenter för datasette"
@@ -440,6 +428,18 @@ msgstr "Inmatning > Mushastighet för vänster analog spak"
 msgctxt "#30103"
 msgid "Input > Right Analog Stick Mouse Speed"
 msgstr "Inmatning > Mushastighet för höger analog spak"
+
+#~ msgctxt "#30015"
+#~ msgid "Video > Zoom Mode"
+#~ msgstr "Video > Zoom-läge"
+
+#~ msgctxt "#30017"
+#~ msgid "Video > Zoom Mode Crop"
+#~ msgstr "Video > Zoomläge beskärning"
+
+#~ msgctxt "#30062"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Snabbtangent > Växla zoomläge"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
