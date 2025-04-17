@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.vice\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-12-05 21:00i\n"
-"PO-Revision-Date: 2025-04-12 12:26+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-vice_xvic/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Commodore - VIC-20 (VICE xvic)"
@@ -31,7 +31,7 @@ msgstr "System > Modell"
 
 msgctxt "#30002"
 msgid "System > Memory Expansion"
-msgstr ""
+msgstr "System > Minnesexpansion"
 
 msgctxt "#30003"
 msgid "System > Read 'vicerc'"
@@ -45,32 +45,26 @@ msgctxt "#30005"
 msgid "Media > Automatic Load Warp"
 msgstr "Media > Automatisk Load Warp"
 
-#, fuzzy
 msgctxt "#30006"
 msgid "Media > Autostart"
 msgstr "Media > Autostart"
 
-#, fuzzy
 msgctxt "#30007"
 msgid "Media > True Drive Emulation"
 msgstr "Media > True Drive-emulering"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Media > Virtual Device Traps"
 msgstr "Media > Traps för virtuella enheter"
 
-#, fuzzy
 msgctxt "#30009"
 msgid "Media > Floppy Write Protection"
 msgstr "Media > Skrivskydd för disketter"
 
-#, fuzzy
 msgctxt "#30010"
 msgid "Media > Global Work Disk"
 msgstr "Media > Global arbetsdisk"
 
-#, fuzzy
 msgctxt "#30011"
 msgid "Media > Cartridge"
 msgstr "Media > Kassett"
@@ -117,39 +111,47 @@ msgstr "Video > Manuell beskärning höger"
 
 msgctxt "#30022"
 msgid "Video > VIC Filter"
-msgstr ""
+msgstr "Video > VIC-filter"
 
+#, fuzzy
 msgctxt "#30023"
 msgid "Video > VIC Filter Oddline Offset"
-msgstr ""
+msgstr "Video > VIC-filter Oddline Offset"
 
+#, fuzzy
 msgctxt "#30024"
 msgid "Video > VIC Filter Oddline Phase"
-msgstr ""
+msgstr "Video > VIC-II-filter Oddline Phase"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "Video > VIC Color Palette"
-msgstr ""
+msgstr "Video > VIC Färgpalett"
 
+#, fuzzy
 msgctxt "#30026"
 msgid "Video > VIC Color Gamma"
-msgstr ""
+msgstr "Video > VIC-II Färggamma"
 
+#, fuzzy
 msgctxt "#30027"
 msgid "Video > VIC Color Brightness"
-msgstr ""
+msgstr "Video > VIC Färgljusstyrka"
 
+#, fuzzy
 msgctxt "#30028"
 msgid "Video > VIC Color Contrast"
-msgstr ""
+msgstr "Video > VIC Färgkontrast"
 
+#, fuzzy
 msgctxt "#30029"
 msgid "Video > VIC Color Saturation"
-msgstr ""
+msgstr "Video > VIC Färgmättnad"
 
+#, fuzzy
 msgctxt "#30030"
 msgid "Video > VIC Color Tint"
-msgstr ""
+msgstr "Video > VIC Color Tint"
 
 msgctxt "#30031"
 msgid "Video > Color Depth"
@@ -197,7 +199,7 @@ msgstr "Ljud > Datasette-ljud"
 
 msgctxt "#30042"
 msgid "Audio > VIC Audio Leak Emulation"
-msgstr ""
+msgstr "Ljud > Emulering av VIC-ljudläckage"
 
 msgctxt "#30043"
 msgid "Audio > Sample Rate"
@@ -247,207 +249,166 @@ msgctxt "#30055"
 msgid "Hotkey > Toggle Statusbar"
 msgstr "Snabbtangent > Växla statusfält"
 
-#, fuzzy
 msgctxt "#30056"
 msgid "Hotkey > Toggle Turbo Fire"
 msgstr "Snabbtangent > Växla turboavfyrning"
 
-#, fuzzy
 msgctxt "#30057"
 msgid "Hotkey > Toggle Save Disk"
 msgstr "Snabbtangent > Växla sparningsdisk"
 
-#, fuzzy
 msgctxt "#30058"
 msgid "Hotkey > Reset"
 msgstr "Snabbknapp > Omstart"
 
-#, fuzzy
 msgctxt "#30059"
 msgid "Hotkey > Hold Warp Mode"
 msgstr "Snabbtangent > Hold Warp-läge"
 
-#, fuzzy
 msgctxt "#30060"
 msgid "Hotkey > Toggle Aspect Ratio"
 msgstr "Snabbtangent > Växla bildförhållande"
 
-#, fuzzy
 msgctxt "#30061"
 msgid "Hotkey > Toggle Crop"
 msgstr "Snabbtangent > Växla beskärning"
 
-#, fuzzy
 msgctxt "#30062"
 msgid "Hotkey > Toggle Zoom Mode"
 msgstr "Snabbtangent > Växla zoomläge"
 
-#, fuzzy
 msgctxt "#30063"
 msgid "Hotkey > Toggle Datasette Hotkeys"
 msgstr "Snabbtangent > Växla snabbtangenter för datasette"
 
-#, fuzzy
 msgctxt "#30064"
 msgid "Hotkey > Datasette PLAY"
 msgstr "Snabbtangent > Datasette PLAY"
 
-#, fuzzy
 msgctxt "#30065"
 msgid "Hotkey > Datasette STOP"
 msgstr "Snabbtangent > Datasette STOP"
 
-#, fuzzy
 msgctxt "#30066"
 msgid "Hotkey > Datasette REWIND"
 msgstr "Snabbtangent > Datasette REWIND"
 
-#, fuzzy
 msgctxt "#30067"
 msgid "Hotkey > Datasette F.FWD"
 msgstr "Snabbtangent > Datasette F.FWD"
 
-#, fuzzy
 msgctxt "#30068"
 msgid "Hotkey > Datasette RESET"
 msgstr "Snabbtangent > Datasette RESET"
 
-#, fuzzy
 msgctxt "#30069"
 msgid "RetroPad > Up"
 msgstr "RetroPad > Upp"
 
-#, fuzzy
 msgctxt "#30070"
 msgid "RetroPad > Down"
 msgstr "RetroPad > Ner"
 
-#, fuzzy
 msgctxt "#30071"
 msgid "RetroPad > Left"
 msgstr "RetroPad > Vänster"
 
-#, fuzzy
 msgctxt "#30072"
 msgid "RetroPad > Right"
 msgstr "RetroPad > Höger"
 
-#, fuzzy
 msgctxt "#30073"
 msgid "RetroPad > A"
 msgstr "RetroPad > A"
 
-#, fuzzy
 msgctxt "#30074"
 msgid "RetroPad > B"
 msgstr "RetroPad > B"
 
-#, fuzzy
 msgctxt "#30075"
 msgid "RetroPad > X"
 msgstr "RetroPad > X"
 
-#, fuzzy
 msgctxt "#30076"
 msgid "RetroPad > Y"
 msgstr "RetroPad > Y"
 
-#, fuzzy
 msgctxt "#30077"
 msgid "RetroPad > Select"
-msgstr "RetroPad > Välj"
+msgstr "RetroPad > Select"
 
-#, fuzzy
 msgctxt "#30078"
 msgid "RetroPad > Start"
 msgstr "RetroPad > Start"
 
-#, fuzzy
 msgctxt "#30079"
 msgid "RetroPad > L"
 msgstr "RetroPad > L"
 
-#, fuzzy
 msgctxt "#30080"
 msgid "RetroPad > R"
 msgstr "RetroPad > R"
 
-#, fuzzy
 msgctxt "#30081"
 msgid "RetroPad > L2"
 msgstr "RetroPad > L2"
 
-#, fuzzy
 msgctxt "#30082"
 msgid "RetroPad > R2"
 msgstr "RetroPad > R2"
 
-#, fuzzy
 msgctxt "#30083"
 msgid "RetroPad > L3"
 msgstr "RetroPad > L3"
 
-#, fuzzy
 msgctxt "#30084"
 msgid "RetroPad > R3"
 msgstr "RetroPad > R3"
 
-#, fuzzy
 msgctxt "#30085"
 msgid "RetroPad > Left Analog > Up"
 msgstr "RetroPad > Vänster analog > Upp"
 
-#, fuzzy
 msgctxt "#30086"
 msgid "RetroPad > Left Analog > Down"
 msgstr "RetroPad > Vänster analog > Ner"
 
-#, fuzzy
 msgctxt "#30087"
 msgid "RetroPad > Left Analog > Left"
 msgstr "RetroPad > Vänster analog > Vänster"
 
-#, fuzzy
 msgctxt "#30088"
 msgid "RetroPad > Left Analog > Right"
 msgstr "RetroPad > Vänster analog > Höger"
 
-#, fuzzy
 msgctxt "#30089"
 msgid "RetroPad > Right Analog > Up"
 msgstr "RetroPad > Höger analog > Upp"
 
-#, fuzzy
 msgctxt "#30090"
 msgid "RetroPad > Right Analog > Down"
 msgstr "RetroPad > Höger analog > Ner"
 
-#, fuzzy
 msgctxt "#30091"
 msgid "RetroPad > Right Analog > Left"
 msgstr "RetroPad > Höger analog > Vänster"
 
-#, fuzzy
 msgctxt "#30092"
 msgid "RetroPad > Right Analog > Right"
 msgstr "RetroPad > Höger analog > Höger"
 
-#, fuzzy
 msgctxt "#30093"
 msgid "RetroPad > Turbo Fire"
 msgstr "RetroPad > Turbo-avfyrning"
 
-#, fuzzy
 msgctxt "#30094"
 msgid "RetroPad > Turbo Button"
 msgstr "RetroPad > Turbo-knapp"
 
-#, fuzzy
 msgctxt "#30095"
 msgid "RetroPad > Turbo Pulse"
 msgstr "RetroPad > Turbo-puls"
 
-#, fuzzy
 msgctxt "#30096"
 msgid "Input > Userport Joystick Adapter"
 msgstr "Inmatning > Userport Joystick-adapter"
