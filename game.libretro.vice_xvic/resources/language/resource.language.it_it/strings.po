@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.vice\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-12-05 21:00i\n"
-"PO-Revision-Date: 2026-08-15 22:09+0000\n"
+"PO-Revision-Date: 2026-08-16 22:16+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-vice_xvic/it_it/>\n"
 "Language: it_it\n"
@@ -43,7 +43,7 @@ msgstr "Sistema > Reimposta tipo"
 
 msgctxt "#30005"
 msgid "Media > Automatic Load Warp"
-msgstr ""
+msgstr "Supporti > Warp automatico al caricamento"
 
 msgctxt "#30006"
 msgid "Media > Autostart"
@@ -107,35 +107,35 @@ msgstr "Video > Filtro VIC"
 
 msgctxt "#30023"
 msgid "Video > VIC Filter Oddline Offset"
-msgstr ""
+msgstr "Video > Offset righe dispari filtro VIC"
 
 msgctxt "#30024"
 msgid "Video > VIC Filter Oddline Phase"
-msgstr ""
+msgstr "Video > Fase righe dispari filtro VIC"
 
 msgctxt "#30025"
 msgid "Video > VIC Color Palette"
-msgstr ""
+msgstr "Video > Tavolozza colori VIC"
 
 msgctxt "#30026"
 msgid "Video > VIC Color Gamma"
-msgstr ""
+msgstr "Video > Gamma colore VIC"
 
 msgctxt "#30027"
 msgid "Video > VIC Color Brightness"
-msgstr ""
+msgstr "Video > Luminosità colore VIC"
 
 msgctxt "#30028"
 msgid "Video > VIC Color Contrast"
-msgstr ""
+msgstr "Video > Contrasto colore VIC"
 
 msgctxt "#30029"
 msgid "Video > VIC Color Saturation"
-msgstr ""
+msgstr "Video > Saturazione colore VIC"
 
 msgctxt "#30030"
 msgid "Video > VIC Color Tint"
-msgstr ""
+msgstr "Video > Tinta colore VIC"
 
 msgctxt "#30031"
 msgid "Video > Color Depth"
@@ -183,11 +183,11 @@ msgstr "Audio > Suono Datasette"
 
 msgctxt "#30042"
 msgid "Audio > VIC Audio Leak Emulation"
-msgstr ""
+msgstr "Audio > Emulazione dispersione audio VIC"
 
 msgctxt "#30043"
 msgid "Audio > Sample Rate"
-msgstr ""
+msgstr "Audio > Frequenza di campionamento"
 
 msgctxt "#30044"
 msgid "Input > Analog Stick Mouse"
@@ -211,7 +211,7 @@ msgstr "Input > Pass-through tastiera"
 
 msgctxt "#30050"
 msgid "Input > Datasette Hotkeys"
-msgstr ""
+msgstr "Input > Tasti di scelta rapida Datasette"
 
 msgctxt "#30051"
 msgid "Input > Keyrah Keypad Mappings"
@@ -219,7 +219,7 @@ msgstr "Input > Mappature tastiera Keyrah"
 
 msgctxt "#30052"
 msgid "Input > Keyboard Keymap"
-msgstr ""
+msgstr "Input > Mappatura tastiera"
 
 msgctxt "#30053"
 msgid "Show Mapping Options"
@@ -319,7 +319,7 @@ msgstr "RetroPad > Seleziona"
 
 msgctxt "#30078"
 msgid "RetroPad > Start"
-msgstr "RetroPad > Avvia"
+msgstr "RetroPad > Start"
 
 msgctxt "#30079"
 msgid "RetroPad > L"
@@ -395,15 +395,15 @@ msgstr "Input > Adattatore joystick Userport"
 
 msgctxt "#30097"
 msgid "RetroPad > Joystick Port Type"
-msgstr ""
+msgstr "RetroPad > Tipo porta joystick"
 
 msgctxt "#30098"
 msgid "RetroPad > Face Button Options"
-msgstr ""
+msgstr "RetroPad > Opzioni del pulsante frontale"
 
 msgctxt "#30099"
 msgid "System > Printer"
-msgstr ""
+msgstr "Sistema > Stampante"
 
 msgctxt "#30100"
 msgid "Media > Floppy MultiDrive"
@@ -411,15 +411,15 @@ msgstr "Supporti > Floppy MultiDrive"
 
 msgctxt "#30101"
 msgid "Video > Automatic Crop Delay"
-msgstr ""
+msgstr "Video > Ritardo ritaglio automatico"
 
 msgctxt "#30102"
 msgid "Input > Left Analog Stick Mouse Speed"
-msgstr ""
+msgstr "Input > Velocità del mouse con levetta analogica sinistra"
 
 msgctxt "#30103"
 msgid "Input > Right Analog Stick Mouse Speed"
-msgstr ""
+msgstr "Input > Velocità del mouse con levetta analogica destra"
 
 #~ msgctxt "#30015"
 #~ msgid "Video > Zoom Mode"
