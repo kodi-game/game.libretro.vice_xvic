@@ -235,10 +235,6 @@ msgctxt "#30149"
 msgid "1:1"
 msgstr ""
 
-msgctxt "#30150"
-msgid "Remove borders according to 'Crop Mode'."
-msgstr ""
-
 msgctxt "#30151"
 msgid "Small"
 msgstr ""
@@ -2521,6 +2517,10 @@ msgstr "虚拟 KBD 调光"
 msgctxt "#30711"
 msgid "Light Pen/Gun Pointer Color"
 msgstr "状态栏模式"
+
+#~ msgctxt "#30150"
+#~ msgid "Remove borders according to 'Crop Mode'."
+#~ msgstr ""
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"
