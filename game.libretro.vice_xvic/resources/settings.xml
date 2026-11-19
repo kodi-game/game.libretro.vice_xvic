@@ -1400,7 +1400,7 @@
 				</setting>
 				<setting id="vice_analogmouse_deadzone" type="string" label="30654" help="30348">
 					<level>0</level>
-					<default>20</default>
+					<default>0</default>
 					<constraints>
 						<options>
 							<option label="30170">0</option>
